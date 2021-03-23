@@ -1,0 +1,39 @@
+body {
+    font-family: 'Roboto Mono',monospace;
+    min-height: 400px;
+    background-image: 
+    url('https://about.fb.com/br/wp-content/uploads/sites/11/2019/10/oculus-rift-s.png?fit=2560%2C1440');
+    background-color:#000000;
+    background-size: 90vh;
+    background-position: center;
+    background-repeat: no-repeat;
+      
+  }
+  
+  .container {
+    text-align: center;
+    padding: 20px;
+    height: 100vh;
+  }
+  
+  .page-title {
+    color: green;
+    margin: 0 0 5px;
+  }
+  
+  .page-subtitle {
+    margin-top: 5px;
+    color: Blue;
+  }
+  
+  .page-logo {
+    width: 200px;
+    
+  }
+  
+  .alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 10px;
+    right:10px;
+  }
