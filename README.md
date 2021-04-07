@@ -22,3 +22,6 @@ Vão ser 10 dias de aulas com projetos práticos e desafios.
 
 ### Desafio dia 03 - Cofre e números aleatórios
 <img alt="cofre" src="https://ik.imagekit.io/uw8itmckuzw/desafioAlura3_rVgp1eSfq.gif">
+
+### Desafio dia 04 - AluraFlix - Funçôes
+<img alt="AluraFlix" src="https://ik.imagekit.io/uw8itmckuzw/desafioAlura4_bBWPndV4SI.png">
