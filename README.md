@@ -29,3 +29,6 @@ Vão ser 10 dias de aulas com projetos práticos e desafios.
 ### Desafio dia 05 - Tabela de classificação - Objetos no JavaScript
 <img alt="Tabela de classificação" src="https://ik.imagekit.io/uw8itmckuzw/desafioAlura5_hVPkrJNf0.gif">
 
+### Desafio dia 06 - Trunfo - Lógica de rodadas com JavaScript
+<img alt="Trunfo" src="https://ik.imagekit.io/uw8itmckuzw/desafioAlura6_DLALVSEXq.gif">
+
