@@ -16,3 +16,6 @@ Vão ser 10 dias de aulas com projetos práticos e desafios.
 
 ### Desafio dia 01 - Conversor de Moedas e Variáveis
 <img alt="conversordemoedas" src="https://ik.imagekit.io/uw8itmckuzw/aula1_5wmMGr8QN.PNG">
+
+### Desafio dia 02 - Calculadora
+<img alt="calculadora" src="https://ik.imagekit.io/uw8itmckuzw/desafioAlura2_lJYvumx95.gif">
