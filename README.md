@@ -32,3 +32,6 @@ Vão ser 10 dias de aulas com projetos práticos e desafios.
 ### Desafio dia 06 - Trunfo - Lógica de rodadas com JavaScript
 <img alt="Trunfo" src="https://ik.imagekit.io/uw8itmckuzw/desafioAlura6_DLALVSEXq.gif">
 
+### Desafio dia 06 - Certificard - Conclusão imersão DEV
+<img alt="Certificard" src="https://ik.imagekit.io/uw8itmckuzw/desafioAlura7.gif_eDzCKrIke.png">
+
