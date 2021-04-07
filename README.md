@@ -17,5 +17,8 @@ Vão ser 10 dias de aulas com projetos práticos e desafios.
 ### Desafio dia 01 - Conversor de Moedas e Variáveis
 <img alt="conversordemoedas" src="https://ik.imagekit.io/uw8itmckuzw/aula1_5wmMGr8QN.PNG">
 
-### Desafio dia 02 - Calculadora
+### Desafio dia 02 - Calculadora - Laços condicionais no JavaScript
 <img alt="calculadora" src="https://ik.imagekit.io/uw8itmckuzw/desafioAlura2_lJYvumx95.gif">
+
+### Desafio dia 03 - Cofre e números aleatórios
+<img alt="cofre" src="https://ik.imagekit.io/uw8itmckuzw/desafioAlura3_rVgp1eSfq.gif">
