@@ -25,3 +25,7 @@ Vão ser 10 dias de aulas com projetos práticos e desafios.
 
 ### Desafio dia 04 - AluraFlix - Funçôes
 <img alt="AluraFlix" src="https://ik.imagekit.io/uw8itmckuzw/desafioAlura4_bBWPndV4SI.png">
+
+### Desafio dia 05 - Tabela de classificação - Objetos no JavaScript
+<img alt="Tabela de classificação" src="https://ik.imagekit.io/uw8itmckuzw/desafioAlura5_hVPkrJNf0.gif">
+
